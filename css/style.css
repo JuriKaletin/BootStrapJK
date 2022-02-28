@@ -1,5 +1,5 @@
 .header a, a:hover {
-    color: #f0ad4e;
+    color: #e7e40f;
     text-decoration: none;
 }
 
@@ -93,7 +93,7 @@ html, body {
 }
 
 .panel-info>.panel-heading {
-    background-color: #f0ad4e;
+    background-color: #e7e40f;
     color: white;
     border-color: transparent;
 }
